@@ -1,4 +1,4 @@
-
+![Developer and Designer](https://github.com/nimeshm05/nimeshm05/blob/main/IMG_20210702_0107291.jpg)
 
 # Hey there 👋 I'm Nimesh!
 
