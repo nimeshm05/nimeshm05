@@ -2,9 +2,9 @@
 
 # Hey there 👋 I'm Nimesh!
 
-I am a user experience engineer with an undergraduate degree in computer science and engineering. I craft experiences by developing interfaces for mobile and website applications using various technology tools. Recently, I worked on flutter at Brane Enterprises to create a no-code solutions mobile application. I tinker with multiple programming languages, tools, and frameworks during my free time.
+I am a user experience engineer with an undergraduate degree in computer science and engineering. I craft experiences by developing interfaces for mobile and website applications using various technology tools. Recently, I worked on flutter at [Brane Enterprises](https://www.nslhub.com/) to create a no-code solutions mobile application. I tinker with multiple programming languages, tools, and frameworks during my free time.
 
-I am also a university innovation fellow from the design school at Stanford University, where I learned design thinking. As a fellow, I worked on creating innovation spaces and change in my higher education ecosystem.
+I am also a [University Innovation Fellow](https://dschool.stanford.edu/university-innovation/university-innovation-fellows) from the design school at Stanford University, where I learned design thinking. As a fellow, I worked on creating innovation spaces and change in my higher education ecosystem.
 
 I am in the process of making a transition into UX design because I love to design experiences through the lens of equity, usability, and accessibility by practicing human-centered approaches.
 
