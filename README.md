@@ -2,11 +2,11 @@
 
 # Hey there 👋 I'm Nimesh!
 
-I am an engineering graduate with a passion for UX design. I have sufficient experience working with front-end technologies such as ReactJS and Flutter. Recently, I worked as a UX + QA engineer with Brane Enterprises to address issues in the functionality of a PaaS product. Essentially, consider me an all-rounder!
+I am a user experience engineer with an undergraduate degree in computer science and engineering. I craft experiences by developing interfaces for mobile and website applications using various technology tools. Recently, I worked on flutter at Brane Enterprises to create a no-code solutions mobile application. I tinker with multiple programming languages, tools, and frameworks during my free time.
 
-I am always interested in advocating for user problems. Recently, I discovered an interest in focusing on broader aspects such as usability, accessibility, and equity of digital products.
+I am also a university innovation fellow from the design school at Stanford University, where I learned design thinking. As a fellow, I worked on creating innovation spaces and change in my higher education ecosystem.
 
-I am also a University Innovation Fellow from the d.school at Stanford University and have coached two university cohorts from Indonesia in design thinking.
+I am in the process of making a transition into UX design because I love to design experiences through the lens of equity, usability, and accessibility by practicing human-centered approaches.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshm05)](https://github.com/anuraghazra/github-readme-stats)
 
