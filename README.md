@@ -8,5 +8,8 @@ I am also a [University Innovation Fellow](https://dschool.stanford.edu/universi
 
 I am in the process of making a transition into UX design because I love to design experiences through the lens of equity, usability, and accessibility by practicing human-centered approaches.
 
+# Want to check my featured projects?
+There are 20 repositories(and counting) in my profile. Therefore, Scroll down to the pinned projects.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshm05)](https://github.com/anuraghazra/github-readme-stats)
 
